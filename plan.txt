@@ -1,0 +1,6 @@
+- Header component
+- Footer component
+- Card component
+- Homepage landing
+- News page
+- BG image on hover
